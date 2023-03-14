@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Calsans-sin';
+    font-display: swap;
+    src: url('./fuentes/calsans-sin_bold.woff2') format('woff2'),
+         url('./fuentes/calsans-sin_bold.woff') format('woff');
+    font-weight: bold;
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calsans-sin';
+    font-display: swap;
+    src: url('./fuentes/calsans-sin_regular.woff2') format('woff2'),
+         url('./fuentes/calsans-sin_regular.woff') format('woff');
+    font-weight: normal;
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calsans-sin';
+    font-display: swap;
+    src: url('./fuentes/calsans-sin_italic.woff2') format('woff2'),
+         url('./fuentes/calsans-sin_italic.woff') format('woff');
+    font-weight: normal;
+    font-weight: 400;
+    font-style: italic;
+}
