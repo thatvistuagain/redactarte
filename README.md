@@ -1,2 +1,2 @@
-# redactarte
+# RedactArte
 RedactArte public repository
