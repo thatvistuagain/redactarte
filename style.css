@@ -26,7 +26,7 @@
 
 body {
   font-size: 18px;
-  font-family: 'Calsans-sin', 'Times New Roman', Times, serif;
+  font-family: 'Calsans-sin', system-ui, sans-serif;
   -webkit-text-size-adjust: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
