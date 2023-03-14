@@ -10,7 +10,7 @@
 @font-face {
     font-family: 'Calsans-sin';
     font-display: swap;
-    src: url('./fuentes/CSR') format('woff2');
+    src: url('./fuentes/CSR.woff2') format('woff2');
     font-weight: normal;
     font-weight: 400;
     font-style: normal;
